@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  germain.cpp
+  Generating Code...
+C:\Users\Aitzaz Imtiaz\source\repos\germain\germain\germain.cpp(48): warning C4715: 'germain_main': not all control paths return a value
+     Creating library C:\Users\Aitzaz Imtiaz\source\repos\germain\x64\Debug\germain.lib and object C:\Users\Aitzaz Imtiaz\source\repos\germain\x64\Debug\germain.exp
+  germain.vcxproj -> C:\Users\Aitzaz Imtiaz\source\repos\germain\x64\Debug\germain.dll
