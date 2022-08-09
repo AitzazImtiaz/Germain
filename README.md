@@ -4,3 +4,20 @@
 <img align="right" src="https://github.com/AitzazImtiaz/Public-Images/blob/main/OIP%20(1).png">
 
 This is Sophie Germain, the founder of the Sophie Germain Prime numbers, and this library is dedicated specifically in an honour to her, Her research had made a impact on  modern Cryptography and made the workflows stronger. Primarily, she was self-taught, and would read books from her father's library, and this library specifically implements her Prime Numbers, as the library lists down list of her Prime numbers below any user specified number. The library has typical "int" limitations unfortunately and is suitable for low numbers only, and so is not an application supporting infinite numbers. 
+
+Here is how to use this library:
+
+```
+#inlude "Germain.h"
+#include <iostream>
+
+using namespace std;
+
+int main(){
+  int n, result;
+  cin >> n;
+  result = germain_main(n);
+  cout <<result;
+  return 0;
+}
+```
