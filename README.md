@@ -17,7 +17,7 @@ int main(){
   int n, result;
   cin >> n;
   result = germain_main(n);
-  cout <<result;
+  cout << result;
   return 0;
 }
 ```
