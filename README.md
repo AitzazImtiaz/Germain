@@ -24,4 +24,4 @@ int main(){
 
 Sorry, but Germain is a ```.dll``` library and will only support Windows XP and later. It was not made for Linux and Mac, a solution is Wine for Linux or try converting ```.dlll``` to a ```.so``` file.
 
-Germain is a simple library, and does not have standard use in a code, other then the scenario of finding Germain numbers at a Windows processor speed, an alternative made is [here](github.com/AitzazImtiaz/ImtiazGermain).
+Germain is a simple library, and does not have standard use in a code, other then the scenario of finding Germain numbers at a Windows processor speed, an alternative made is [here](https://github.com/AitzazImtiaz/ImtiazGermain).
