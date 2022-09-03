@@ -21,3 +21,5 @@ int main(){
   return 0;
 }
 ```
+
+Sorry, but Germain is a ```.dll``` library and will only support Windows XP and later. It was not made for Linux and Mac, a solution is Wine for Linux or try converting ```.dlll`` to a ```.so``` file.
