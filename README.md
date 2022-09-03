@@ -8,7 +8,7 @@ This is Sophie Germain, the founder of the Sophie Germain Prime numbers, and thi
 Here is how to use this library:
 
 ```
-#inlude "Germain.h"
+#inlude "germain.h"
 #include <iostream>
 
 using namespace std;
